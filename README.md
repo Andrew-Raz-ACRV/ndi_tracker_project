@@ -1,2 +1,4 @@
 # ndi_tracker_project
-Modified NDI software to create a .csv file with data
+Code in CombinedAPISampleDlg.cpp is modified NDI software to create a .csv file from sensors storing translation and rotation measurements in mm and quaternions
+
+Matlab code to process the data
