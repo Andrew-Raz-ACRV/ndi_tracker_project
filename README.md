@@ -3,4 +3,4 @@ Code in CombinedAPISampleDlg.cpp is modified NDI software to create a .csv file 
 
 Search 'Andrew' to find the specific modifications, see the .csv file as an example of data
 
-Matlab code to process the data
+There is Matlab code to process the data, use the command NDI_csr_to_vectors.m
