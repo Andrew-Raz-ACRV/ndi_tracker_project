@@ -5,3 +5,5 @@ Search 'Andrew' to find the specific modifications, see the .csv file as an exam
 
 There is Matlab code to process the data from .csv to vectors using the command NDI_csr_to_vectors.m
 Other codes include examples of performing registration with known points for the sensors.
+
+For students at QUT, there is an instruction guide pdf in this repository
